@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.0.1
+Summary: ML project for climate time series analysis
+Author: hhdonglo
+Author-email: hkdonglo@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
